@@ -1,4 +1,4 @@
-# Dracula for [Spicetify cli](https://github.com/khanhas/spicetify-cli)
+# Dracula for [Spicetify](https://github.com/khanhas/spicetify-cli)
 
 > A dark theme for [Spicetify cli](https://github.com/khanhas/spicetify-cli). Inspired by [Onepunch](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Onepunch).
 
