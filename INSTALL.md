@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [Spicetify](https://github.com/khanhas/spicetify-cli)
 
 #### Install using Git
 
@@ -8,7 +8,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/spicetify/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
