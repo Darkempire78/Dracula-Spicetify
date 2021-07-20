@@ -12,6 +12,14 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Place the theme folder in the Spicetify theme folder
+
+Windows: `%userprofile%\.spicetify\Themes\`
+
+Linux: `$XDG_CONFIG_HOME/.config/spicetify/Themes/ or ~/.config/spicetify/Themes`
+
+MacOS: `~/spicetify_data/Themes`
+
+2. Enable it with the following command:
+
+```$ spicetify apply```
