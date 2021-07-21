@@ -20,6 +20,10 @@ Linux: `$XDG_CONFIG_HOME/.config/spicetify/Themes/ or ~/.config/spicetify/Themes
 
 MacOS: `~/spicetify_data/Themes`
 
-2. Enable it with the following command:
+2. Choose the theme
+
+```$ spicetify config current_theme Dracula```
+
+3. Enable the changement
 
 ```$ spicetify apply```
