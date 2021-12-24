@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/spicetify](INSTALL.md).
+All instructions can be found [here](INSTALL.md).
 
 ## Team
 
